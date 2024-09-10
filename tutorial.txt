@@ -1,0 +1,2 @@
+Download Node e npm: https://nodejs.org/pt
+Download no terminal: npm i @types/node tsx -D 

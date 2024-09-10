@@ -1,0 +1,19 @@
+{
+  "name": "projetofullstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/http/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "tsx": "^4.19.0"
+  },
+  "dependencies": {
+    "fastify": "^4.28.1"
+  }
+}
